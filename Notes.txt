@@ -1,0 +1,42 @@
+
+Excel Import and Plot
+
+1. Import
+- order num
+- name
+- type
+- order date
+- del date
+- amt quote
+
+
+2. Packing slip
+- order num
+- order name
+- amount
+- ship date
+
+
+3. Orders
+- order num
+- name
+- type
+- order date
+- del date
+- sched date
+- act ship date
+- amt quote
+- amt billed
+
+
+4. Targets
+- month
+- amount_sell
+- amount_ship
+
+
+Report
+- open orders
+- shipped  for this month
+- 
+
