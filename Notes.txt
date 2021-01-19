@@ -1,13 +1,13 @@
 
 Excel Import and Plot
 
-1. Import
+1. Sales
 - order num
 - name
 - type
+- amt quote
 - order date
 - del date
-- amt quote
 
 
 2. Packing slip
@@ -27,6 +27,7 @@ Excel Import and Plot
 - act ship date
 - amt quote
 - amt billed
+- closed
 
 
 4. Targets
@@ -36,7 +37,26 @@ Excel Import and Plot
 
 
 Report
-- open orders
-- shipped  for this month
-- 
+- open orders 	
+	-- list
+	-- totals by type
+	-- days to ship
+	-- orders late
+	-- table #2 by ship date
+- shipped  for this month -list
+	-- list
+	-- totals by type
+	-- total number
+	-- average by type
+	-- average per day
+- plot
+	-- whole month by day
+	-- running total
+	-- with target
+	-- with average
+- project cash flow
+	-- plot
+
+
+
 
